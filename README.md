@@ -20,7 +20,9 @@ Welcome to the Telecom Churn Prediction project! This classification project aim
 
 ## Dataset Overview
 
-The dataset consists of 4250 samples, each with 19 features, and a binary target feature indicating customer churn.
+The dataset consists of 4250 samples, each with 19 features, and a binary target feature indicating customer churn. 
+For the dataset used in this project, refer to the [Kaggle Churn Pred Dataset](https://www.kaggle.com/competitions/customer-churn-prediction-2020/data).
+
 
 ## Data Analysis
 
